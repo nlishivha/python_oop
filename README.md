@@ -42,9 +42,6 @@ The goal of this guide is to introduce and simplify OOP principles for readers, 
 ## Contribution
 Contributions are encouraged! If you have suggestions for improvements or additional topics that could enhance this guide, please feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.]
-
 ## Contact
 For any questions or feedback, please reach out to:
 - **Name**: Ndimuhulu Lishivha
